@@ -6,7 +6,7 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: ''
-  content: ''
+  content: "<p>cont cont</p>"
 - template: navigation-header-w-button
   block: header-2
   logo: "/uploads/2018/06/21/forestry-full.svg"
