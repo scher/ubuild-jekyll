@@ -31,6 +31,7 @@ fields:
   - signup-bar
   - simple-footer
   - 4-column-footer
+  - my-comp
 pages:
 - 123.md
 - index.md
